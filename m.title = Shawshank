@@ -1,0 +1,10 @@
+=> [32m#<Movie:0x000055d300902648[0m
+ id: [1;36mnil[0m,
+ title: [1;36mnil[0m,
+ year: [1;36mnil[0m,
+ duration: [1;36mnil[0m,
+ description: [1;36mnil[0m,
+ image: [1;36mnil[0m,
+ director_id: [1;36mnil[0m,
+ created_at: [1;36mnil[0m,
+ updated_at: [1;36mnil[0m[32m>[0m
